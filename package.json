@@ -40,5 +40,9 @@
   },
   "engines": {
     "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phamtuananh1996/sprite-to-gif"
   }
 }
